@@ -13,7 +13,7 @@
 		*console.log()向控制台输出一个内容
 		*console.log("hi");
 		*/
-
+	alert("My first JS code");
     	</script>
 	</head>
 	<body>
